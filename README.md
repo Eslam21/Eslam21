@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslam21" alt="eslam21" /></a> </p>
 
+- 🎓 I'm currently studying Computer Science **at Nile University**
+
+- 🌱 I'm on track for learning more about **Data Science, Mobile Development and Cloud Computing.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eslam ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eslam-ahmed-249730194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eslam-ahmed-249730194/" height="30" width="40" /></a>
 <a href="https://kaggle.com/eslam101ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eslam101ahmed" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ozymandiaass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ozymandiaass" height="30" width="40" /></a>
 </p>
