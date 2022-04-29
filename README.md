@@ -27,7 +27,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/in/eslam-ahmed-249730194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/eslam-ahmed-249730194/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eslam-ahmed-249730194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/eslam-ahmed-249730194/" height="30" width="40" /></a>
 <a href="https://kaggle.com/eslam101ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eslam101ahmed" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ozymandiaass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ozymandiaass" height="30" width="40" /></a>
 </p>
