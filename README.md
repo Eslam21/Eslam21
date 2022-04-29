@@ -11,7 +11,7 @@
 
 - ✉️  You can shoot me an email at **Es.ahmed@nu.edu.eg!** I'll try to respond as soon as I can.
 
-- 📄  Please have a look at my **[Résumé](https://www.linkedin.com/in/eslam-ahmed-249730194/overlay/1635466645990/single-media-viewer/)** for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my **[Résumé](https://www.linkedin.com/in/eslam-ahmed-249730194/overlay/1635466645990/single-media-viewer/)** for more details about me. I'm open to feedback and suggestions!.
 
 
 <h3 align="left">Connect with me:</h3>
