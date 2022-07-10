@@ -6,14 +6,15 @@
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eslam21&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://badges.pufler.dev/repos/eslam21" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/eslam21?label=Followers" alt="manarshahin48" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eslam21&label=Profile%20views&color=0e75b6&style=flat" alt="eslam21" />
+		   <!-- <img src="https://badges.pufler.dev/repos/eslam21" alt="eslam21" /> -->
+		   <img src="https://img.shields.io/github/followers/eslam21?label=Followers" alt="eslam21" />
 </p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## About Me:
+
 - 🎓 I'm currently studying Computer Science **at Nile University**
 
 - 🌱 I'm on track for learning more about **Data Science, Mobile Development and Cloud Computing.**
