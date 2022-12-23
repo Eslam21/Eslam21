@@ -40,4 +40,3 @@
 | ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslam21) |
 | --- | --- |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=eslam21&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
