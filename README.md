@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently studying Computer Science **at Nile University**
 
-- 🌱 I'm on track for learning more about **Data Science, Mobile Development and Cloud Computing.**
+- 🌱 I'm on track for learning more about **Data Science and Backend Development.**
 
 - 💡  I like to explore **new technologies and develop software solutions.**
 
