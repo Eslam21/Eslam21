@@ -17,7 +17,7 @@
 
 - ✉️  You can shoot me an email at **Es.ahmed@nu.edu.eg!** I'll try to respond as soon as I can.
 
-- 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:w:/g/personal/es_ahmed_nu_edu_eg/EX_xVCSZFvxAlfcHQta8M94BEBNofeIeNoskhK9XtjndYw?e=TsPtPT)** for more details about me. I'm open to feedback and suggestions!.
+- 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:b:/g/personal/es_ahmed_nu_edu_eg/EVNJcLfoHyFErm8f2-fXN9UBppgpuQo5HPNYLuOIrhHhAw?e=tpVyPx)** for more details about me. I'm open to feedback and suggestions!.
 
 
 ## Connect with me:
