@@ -1,27 +1,34 @@
-<h1 align="center"> Hi, I'm Eslam Mohamed    
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><a href="https://github.com/404"><a/>
-<br> 
-  </h1>
-
 
 
   
+
+
+
+# Eslam Mohamed
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400px" /></p>
 
-## About Me:
+👨‍💻 **Data Scientist | AI Enthusiast | Problem Solver**  
+I’m passionate about solving complex problems through innovative AI applications.
 
-- 🎓 I'm currently studying Computer Science **at Nile University**
+🎓 **Education**  
+**Bachelor of Computer Science** at Nile University (GPA: **3.9/4.0**).
 
-- 🌱 I'm on track for learning more about **Data Science and Backend Development.**
+💼 **Experience**  
+- **AI Researcher** at **A2I2**: Conducting research on Trustworthy Knowledge Representation in Clinical Practices to improve pre-hospital notifications and reduce ramping in healthcare.
+- **Data Scientist** at **Open Science**: Analyzed multispectral imagery for coffee characteristics and decision-making.  
+- **Image Processing Intern** at **CIS Research Center**: Worked on early detection of ROP disease.
 
-- 💡  I like to explore **new technologies and develop software solutions.**
+📝 **Publications**  
+- *Hyperspectral Imaging Applications* (Elsevier, Jun 2024)  
+- *ArEEG: an Open-Access Arabic Inner Speech EEG Dataset* (Nature, Pending Approval)  
 
-- ✉️  You can shoot me an email at **Es.ahmed@nu.edu.eg!** I'll try to respond as soon as I can.
+🏆 **Awards**  
+- Top 3 Finalist at Lablab’s Langchain Hackathon  
+- President’s Honors (4 consecutive semesters)
 
-- 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:b:/g/personal/es_ahmed_nu_edu_eg/EbUXY6a1chREuYZhJqRd_FcBb9lBIIa8dELvJAQNFQBsng?e=LFn29H)** for more details about me. I'm open to feedback and suggestions!.
+✉️ **Contact**  
+Email: [Es.ahmed@nu.edu.eg](mailto:Es.ahmed@nu.edu.eg) | [Résumé](https://nileuniversity-my.sharepoint.com/:b:/g/personal/es_ahmed_nu_edu_eg/EbUXY6a1chREuYZhJqRd_FcBb9lBIIa8dELvJAQNFQBsng?e=LFn29H)
 
 
 ## Connect with me:
