@@ -22,7 +22,7 @@ I’m passionate about solving complex problems through innovative AI applicatio
 - President’s Honors (4 consecutive semesters)
 
 ✉️ **Contact**  
-Email: [Es.ahmed@nu.edu.eg](mailto:Es.ahmed@nu.edu.eg) | [Résumé](https://nileuniversity-my.sharepoint.com/:b:/g/personal/es_ahmed_nu_edu_eg/EbUXY6a1chREuYZhJqRd_FcBb9lBIIa8dELvJAQNFQBsng?e=LFn29H)
+Email: [Es.ahmed@nu.edu.eg](mailto:Es.ahmed@nu.edu.eg) | [Résumé](https://drive.google.com/drive/folders/1jV0nGSqgCvU7ZoCkL4SR3mxbiKMTwvs8?usp=sharing)
 
 
 ## Connect with me:
