@@ -8,13 +8,16 @@ I’m passionate about solving complex problems through innovative AI applicatio
 🎓 **Education**  
 **Bachelor of Computer Science** at Nile University (GPA: **3.9/4.0**).
 
-💼 **Experience**  
+💼 **Experience** 
+- **Backend Engineer** at **Settle Payments**: Developing and maintaing APIs with Oracle EBS, optimizing data handling and ensuring system stability and performance.
 - **AI Researcher** at **A2I2**: Conducting research on Trustworthy Knowledge Representation in Clinical Practices to improve pre-hospital notifications and reduce ramping in healthcare.
 - **Data Scientist** at **Open Science**: Analyzed multispectral imagery for coffee characteristics and decision-making.  
 - **Image Processing Intern** at **CIS Research Center**: Worked on early detection of ROP disease.
 
 📝 **Publications**  
-- *Hyperspectral Imaging Applications* (Elsevier, Jun 2024)  
+- *Stochasticity as a Solution for Overfitting-A New Model and Comparative Study on Non-invasive EEG Prospects* (Frontiers, Jan 2025) 
+- *A Comparative Analysis of Large Language Models for Automated Course Content Generation from Books* (NILES, Oct 2024)
+- *Hyperspectral Imaging Applications* (Elsevier, Jun 2024)
 - *ArEEG: an Open-Access Arabic Inner Speech EEG Dataset* (Nature, Pending Approval)  
 
 🏆 **Awards**  
