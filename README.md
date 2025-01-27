@@ -5,7 +5,7 @@
 👨‍💻 **Data Scientist | AI Enthusiast | Problem Solver**
 
 🎓 **Education**  
-**Bachelor of Computer Science** at Nile University (GPA: **3.9/4.0**).
+- **Bachelor of Computer Science** at Nile University (GPA: **3.9/4.0**).
 
 💼 **Experience** 
 - **Backend Engineer** at **Settle Payments**: Developing and maintaing APIs with Oracle EBS, optimizing data handling and ensuring system stability and performance.
