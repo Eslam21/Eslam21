@@ -32,7 +32,7 @@
 
 
 ✉️ **Contact**  
-Email: [Es.ahmed@nu.edu.eg](mailto:Es.ahmed@nu.edu.eg) | [Résumé](https://drive.google.com/file/d/1fHh29yD_utjaj5Tg6vFimWx99-Z9zAs2/view?usp=sharing)
+Email: eessllaamm1010@gmail.com](mailto:eessllaamm1010@gmail.com) | [Résumé](https://drive.google.com/file/d/1fHh29yD_utjaj5Tg6vFimWx99-Z9zAs2/view?usp=sharing)
 
 
 ## Connect with me:
